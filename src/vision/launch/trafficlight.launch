@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="vision" type="pic_read" name="pic_read" output="screen"/>
+</launch>

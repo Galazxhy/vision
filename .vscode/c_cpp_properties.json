@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nano/ROS/akm_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/amcl/include/**",
+        "/home/nano/ROS/akm_ws/src/ros_astra_camera/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/base_local_planner/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/carrot_planner/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/clear_costmap_recovery/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/costmap_2d/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/dwa_local_planner/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/global_planner/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/map_server/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/move_base/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/move_slow_and_clear/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/nav_core/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/navfn/include/**",
+        "/home/nano/ROS/akm_ws/src/robot_pose_ekf/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/rotate_recovery/include/**",
+        "/home/nano/ROS/akm_ws/src/teb_local_planner-melodic-devel/include/**",
+        "/home/nano/ROS/akm_ws/src/turn_on_wheeltec_robot/include/**",
+        "/home/nano/ROS/akm_ws/src/usb_cam/include/**",
+        "/home/nano/ROS/akm_ws/src/navigation-melodic/voxel_grid/include/**",
+        "/usr/include/**",
+        "/home/nano/vision/src/vision/include/**"
+      ],
+      "name": "ROS",
+      "cppStandard": "c++11"
+    }
+  ],
+  "version": 4
+}
