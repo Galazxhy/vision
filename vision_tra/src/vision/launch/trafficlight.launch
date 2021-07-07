@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="vision" type="pic_read" name="pic_read" output="screen"/>
+    <!-- <node pkg="vision" type="read_from_file" name="read_from_file" output="screen"/> -->
+    <node pkg="vision" type="detctor" name="detctor" output="screen"/>
+</launch>
